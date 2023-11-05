@@ -1,7 +1,7 @@
 #include "drip.h"
 #include <math.h>
 #include <cstdlib>
-#include "dsp.h"
+#include "Utility/dsp.h"
 
 using namespace daisysp;
 

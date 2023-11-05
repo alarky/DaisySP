@@ -1,6 +1,6 @@
 #include "stringvoice.h"
 #include <algorithm>
-#include "dsp.h"
+#include "Utility/dsp.h"
 
 using namespace daisysp;
 

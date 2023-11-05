@@ -1,6 +1,6 @@
 #include <math.h>
 #include "crossfade.h"
-#include "dsp.h"
+#include "Utility/dsp.h"
 
 #define REALLYSMALLFLOAT 0.000001f
 

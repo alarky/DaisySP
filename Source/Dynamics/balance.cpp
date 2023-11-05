@@ -1,6 +1,6 @@
 #include "balance.h"
 #include <math.h>
-#include "dsp.h"
+#include "Utility/dsp.h"
 
 using namespace daisysp;
 
